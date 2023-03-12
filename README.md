@@ -24,7 +24,7 @@
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=naeema19&theme=chartreuse-dark" />  
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=naeema-19&theme=chartreuse-dark" /> 
 
 
 
@@ -34,7 +34,7 @@
  <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,django,python,php,mongodb,c,c++,java,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,django,python,php,mongodb,c,cpp,java,git" />
   </a>
 </p>
  
@@ -75,15 +75,10 @@ ___
   <a href="https://www.linkedin.com/in/naeema-ziyad/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://medium.com/@naeema-19">
-    <img src="https://gist.github.com/naeema-19/d3e2a54e5909a37cb7cf212bf83b3e6c/raw/63631d4cfd5d53de4513ac774f0008aa235c6aba/medium.png" height="48" width="48" />
-  </a>
   <a href="https://www.instagram.com/naeema_ziyad/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
-
 
 
 

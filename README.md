@@ -18,17 +18,6 @@
 
 
 
-
-
-
----
-<h2 align="center">Contribution Graph 📊</h2>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=naeema-19&theme=chartreuse-dark" /> 
-
-
-
-  
- 
 ---
  <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">

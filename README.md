@@ -4,8 +4,6 @@
 - *A passionate* **web developer** 
 - *Specializes in **front-end development***
 - *Trying and **exploring** new stuff*
-#### Checkout my [bio.link](#) profile for more details.
-
 
 
 ---
